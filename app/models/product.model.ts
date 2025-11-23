@@ -6,4 +6,5 @@ export interface Product {
   price: number;
   sale: boolean;
   title: string;
+  
 }
